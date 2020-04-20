@@ -1,4 +1,4 @@
-Você acaba de receber o WhatsBorV2, vamos começar os passos para que ele funcione
+
 
 1°- Coloque os arquvos (WhatsBotV2, EncerrarWhatsBotV2) em sua àrea de trabalho.
 
@@ -10,4 +10,3 @@ Você acaba de receber o WhatsBorV2, vamos começar os passos para que ele funcion
 
 5°- Agora é só  usar um agendador de tarefas , pode ser o próprio do windows (Recomendado:Z-cron) é agendar para rodar os arquivos WhatsBotV2 e EncerrarWhatsBotV2.
 
-(Entre em contato para suporte WhatsApp:+1 (318) 370-3619 ou https://api.whatsapp.com/send?phone=13183703619
