@@ -1,0 +1,13 @@
+Você acaba de receber o WhatsBorV2, vamos começar os passos para que ele funcione
+
+1°- Coloque os arquvos (WhatsBotV2, EncerrarWhatsBotV2) em sua àrea de trabalho.
+
+2°- Abra o arquivo (ModeloMensagem) seu sistema ou site tem que gerar um arquivo .txt abrigatoriamente naquele modelo para cada mensagem (EX:https://api.whatsapp.com/send?phone=5547999999999text=Esse%20deve%20ser%20o%20modelo%20gerado%20por%20seu%20sistema) note que para dar espaço entre as palavras deve se utilizar(%20) e no final de cada linha não se uliliza nada.
+
+3°- Depois do seus sistema já estiver gerando um arquivo .txt com as mensagens, escolha uma pasta aonde ira armazenalo, e vá até o WhatsBotV2 e click em editar, nele você vera uma linha (sPathFile = "***Coloque-o-caminho-para-o-seu-arquivo-.txt***")
+
+4°- Entre no WhatsApp Web e sincronize com a conta que usara para disparar as mensagens
+
+5°- Agora é só  usar um agendador de tarefas , pode ser o próprio do windows (Recomendado:Z-cron) é agendar para rodar os arquivos WhatsBotV2 e EncerrarWhatsBotV2.
+
+(Entre em contato para suporte WhatsApp:+1 (318) 370-3619 ou https://api.whatsapp.com/send?phone=13183703619

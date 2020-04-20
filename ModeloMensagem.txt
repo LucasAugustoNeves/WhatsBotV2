@@ -1,0 +1,5 @@
+https://api.whatsapp.com/send?phone=#NumeroDeCelular#&text=a%20mensagem%20aqui
+https://api.whatsapp.com/send?phone=859966005807&text=a%20mensagem%20aqui
+https://api.whatsapp.com/send?phone=859966005807&text=a%20mensagem%20aqui
+https://api.whatsapp.com/send?phone=859966005807&text=a%20mensagem%20aqui
+https://api.whatsapp.com/send?phone=859966005807&text=a%20mensagem%20aqui
